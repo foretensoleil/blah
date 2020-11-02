@@ -1,7 +1,7 @@
 # generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
 # udpipe_model = russian-syntagrus-ud-2.6-200830
 # udpipe_model_licence = CC BY-NC-SA
-1	Ммм	ммм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	words@amorozov1986m#@amorozov1986m#8.215#8.92
+1	Ммм	ммм	X	_	_	7	nsubj	_	words@amorozov1986m#@amorozov1986m#8.215#8.92
 2	//	//	PUNCT	_	_	3	punct	_	words@amorozov1986m#@amorozov1986m#8.92#9.625
 3	Ну	ну	PART	_	_	1	parataxis	_	words@amorozov1986m#@amorozov1986m#12.35#12.592
 4	/	/	PUNCT	_	_	3	punct	_	words@amorozov1986m#@amorozov1986m#12.592#12.835
@@ -20,12 +20,12 @@
 17	с	с	ADP	_	_	18	case	_	words@amorozov1986m#@amorozov1986m#16.675#16.956
 18	Хоботом	Хобот	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	15	obl	_	words@amorozov1986m#@amorozov1986m#16.956#17.238
 19	//	//	PUNCT	_	_	21	punct	_	words@amorozov1986m#@amorozov1986m#17.238#17.52
-20	Ммм	Ммм	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	words@amorozov1986m#@amorozov1986m#20.498#21.732
+20	Ммм	ммм	X	_	_ 21	nsubj	_	words@amorozov1986m#@amorozov1986m#20.498#21.732
 21	Играли	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	words@amorozov1986m#@amorozov1986m#24.511#24.779
 22	в	в	ADP	_	_	23	case	_	words@amorozov1986m#@amorozov1986m#24.779#25.047
 23	компьютер	компьютер	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	21	obl	_	words@amorozov1986m#@amorozov1986m#25.047#25.315
 24	//	//	PUNCT	_	_	25	punct	_	words@amorozov1986m#@amorozov1986m#25.315#25.584
-25	Ммм	Ммм	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	36	conj	_	words@amorozov1986m#@amorozov1986m#27.527#28.01
+25	Ммм	ммм	X	_	_	36	conj	_	words@amorozov1986m#@amorozov1986m#27.527#28.01
 26	//	//	PUNCT	_	_	27	punct	_	words@amorozov1986m#@amorozov1986m#28.01#28.493
 27	Болели	болеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	36	conj	_	words@amorozov1986m#@amorozov1986m#30.0#30.406
 28	за	за	ADP	_	_	29	case	_	words@amorozov1986m#@amorozov1986m#30.406#30.812
@@ -55,7 +55,7 @@
 52	что	что	SCONJ	_	_	51	fixed	_	words@amorozov1986m#@amorozov1986m#50.192#50.552
 53	Хобот	Хобот	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	54	obj	_	words@amorozov1986m#@amorozov1986m#50.552#50.913
 54	любил	любить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	50	advcl	_	words@amorozov1986m#@amorozov1986m#50.913#51.274
-55	Да	да	CCONJ	_	_	129	cc	_	words@amorozov1986m#@amorozov1986m#61.407#61.817
+55	Да	да	RART	_	_	129	cc	_	words@amorozov1986m#@amorozov1986m#61.407#61.817
 56	/	/	PUNCT	_	_	129	punct	_	words@amorozov1986m#@amorozov1986m#61.817#62.227
 57	конечно	конечно	ADV	_	Degree=Pos	129	parataxis	_	words@amorozov1986m#@amorozov1986m#62.227#62.637
 58	/	/	PUNCT	_	_	129	punct	_	words@amorozov1986m#@amorozov1986m#62.637#63.047
@@ -196,7 +196,7 @@
 193	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	191	nmod	_	words@amorozov1986m#@amorozov1986m#153.438#154.064
 194	семидесятых	семидесятый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	193	nmod	_	words@amorozov1986m#@amorozov1986m#154.064#154.69
 195	//	//	PUNCT	_	_	196	punct	_	words@amorozov1986m#@amorozov1986m#154.69#155.317
-196	Эээ	Эээ	X	_	_	307	appos	_	words@amorozov1986m#@amorozov1986m#157.538#157.906
+196	Эээ	эээ	X	_	_	307	appos	_	words@amorozov1986m#@amorozov1986m#157.538#157.906
 197	//	//	PUNCT	_	_	199	punct	_	words@amorozov1986m#@amorozov1986m#157.906#158.274
 198	И	и	CCONJ	_	_	199	cc	_	words@amorozov1986m#@amorozov1986m#159.219#159.767
 199	м-музыка	м-музыка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	336	conj	_	words@amorozov1986m#@amorozov1986m#159.767#160.316
@@ -273,7 +273,7 @@
 270	постепенно	постепенно	ADV	_	Degree=Pos	271	advmod	_	words@amorozov1986m#@amorozov1986m#234.131#234.474
 271	собрали	собрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	336	conj	_	words@amorozov1986m#@amorozov1986m#234.474#234.817
 272	группу	группа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	271	obj	_	words@amorozov1986m#@amorozov1986m#234.817#235.161
-273	Мм	мм	X	_	Foreign=Yes	272	appos	_	words@amorozov1986m#@amorozov1986m#237.216#237.612
+273	Мм	мм	X	_	_	272	appos	_	words@amorozov1986m#@amorozov1986m#237.216#237.612
 274	Тип	Тип	PART	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	273	appos	_	words@amorozov1986m#@amorozov1986m#238.08#238.451
 275	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	185	nmod	_	words@amorozov1986m#@amorozov1986m#238.451#238.822
 276	#нрзб#	#нрзб#	X	_	_	185	punct	_	words@amorozov1986m#@amorozov1986m#249.659#250.549
@@ -348,7 +348,7 @@
 345	слушать	слушать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	336	xcomp	_	words@amorozov1986m#@amorozov1986m#282.051#282.228
 346	//	//	PUNCT	_	_	347	punct	_	words@amorozov1986m#@amorozov1986m#282.228#282.406
 347	Мм	Мм	X	_	_	345	obl	_	words@amorozov1986m#@amorozov1986m#283.49#283.951
-348	А	А	CCONJ	_	Foreign=Yes	353	appos	_	words@amorozov1986m#@amorozov1986m#285.858#285.995
+348	А	а	CCONJ	_	Foreign=Yes	353	appos	_	words@amorozov1986m#@amorozov1986m#285.858#285.995
 349	/	/	PUNCT	_	_	353	punct	_	words@amorozov1986m#@amorozov1986m#285.995#286.132
 350	самодельная	самодельный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	353	amod	_	words@amorozov1986m#@amorozov1986m#287.353#288.395
 351	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing	353	det	_	words@amorozov1986m#@amorozov1986m#289.831#290.41
