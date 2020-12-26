@@ -141,7 +141,7 @@
 138	?	?	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#165.086#165.31
 139	да	да	CCONJ	_	_	_	_	_	words@kib1997f#@kib1997f#167.33#167.51
 140	да	да	PART	_	_	_	_	_	words@kib1997f#@kib1997f#167.51#167.69
-141	можно	можно	ADV	_	Degree=Pos	_	_	_	words@kib1997f#@kib1997f#167.69#167.87
+141	можно	можно	VERB	_	Degree=Pos	_	_	_	words@kib1997f#@kib1997f#167.69#167.87
 142	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#167.87#168.05
 143	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#168.05#168.23
 144	ну	ну	PART	_	_	_	_	_	words@kib1997f#@kib1997f#188.24#188.476
@@ -383,7 +383,7 @@
 380	Люберцы	Люберцы	PROPN	_	Animacy=Inan|Case=Nom|Number=Plur	_	_	_	words@aam1994f#@aam1994f#66.474#66.642
 381	/	/	PUNCT	_	_	_	_	_	words@aam1994f#@aam1994f#66.642#66.81
 382	/	/	PUNCT	_	_	_	_	_	words@aam1994f#@aam1994f#66.81#66.987
-383	можно	можно	ADV	_	Degree=Pos	_	_	_	words@aam1994f#@aam1994f#66.987#67.214
+383	можно	можно	VERB	_	Degree=Pos	_	_	_	words@aam1994f#@aam1994f#66.987#67.214
 384	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@aam1994f#@aam1994f#67.214#67.441
 385	кроссовки	кроссовка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	words@aam1994f#@aam1994f#67.441#67.668
 386	сниму	снять	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@aam1994f#@aam1994f#67.668#67.895
@@ -392,7 +392,7 @@
 389	/	/	PUNCT	_	_	_	_	_	words@aam1994f#@aam1994f#71.308#71.518
 390	/	/	PUNCT	_	_	_	_	_	words@aam1994f#@aam1994f#71.518#71.728
 391	так	так	ADV	_	Degree=Pos	_	_	_	words@aam1994f#@aam1994f#72.814#72.958
-392	надо	надо	ADV	_	Degree=Pos	_	_	_	words@aam1994f#@aam1994f#72.958#73.102
+392	надо	надо	VERB	_	Degree=Pos	_	_	_	words@aam1994f#@aam1994f#72.958#73.102
 393	снять	снять	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@aam1994f#@aam1994f#73.102#73.246
 394	чистые	чистый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	words@aam1994f#@aam1994f#73.246#73.39
 395	носки	носок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@aam1994f#@aam1994f#73.39#73.534
@@ -623,7 +623,7 @@
 620	ой	ой	INTJ	_	_	_	_	_	words@aam1994f#@aam1994f#165.784#166.041
 621	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@aam1994f#@aam1994f#166.041#166.298
 622	/	/	PUNCT	_	_	_	_	_	words@aam1994f#@aam1994f#166.298#166.555
-623	можно	можно	ADV	_	Degree=Pos	_	_	_	words@aam1994f#@aam1994f#166.555#166.812
+623	можно	можно	VERB	_	Degree=Pos	_	_	_	words@aam1994f#@aam1994f#166.555#166.812
 624	рассказывать	рассказывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@aam1994f#@aam1994f#166.812#167.069
 625	да	да	PART	_	_	_	_	_	words@aam1994f#@aam1994f#167.069#167.326
 626	?	?	PUNCT	_	_	_	_	_	words@aam1994f#@aam1994f#167.326#167.588
@@ -776,7 +776,7 @@
 773	одну	один	NUM	_	Case=Acc|Gender=Fem	_	_	_	words@aam1994f#@aam1994f#214.479#214.814
 774	студию	студия	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@aam1994f#@aam1994f#214.814#215.149
 775	/	/	PUNCT	_	_	_	_	_	words@aam1994f#@aam1994f#215.149#215.484
-776	посмотреть	смотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@aam1994f#@aam1994f#215.484#215.819
+776	посмотреть	посмотреть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@aam1994f#@aam1994f#215.484#215.819
 777	/	/	PUNCT	_	_	_	_	_	words@aam1994f#@aam1994f#215.819#216.154
 778	/	/	PUNCT	_	_	_	_	_	words@aam1994f#@aam1994f#216.154#216.509
 779	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@aam1994f#@aam1994f#216.548#216.858
@@ -825,7 +825,7 @@
 822	когда-нибудь	когда-нибудь	ADV	_	Degree=Pos	_	_	_	words@aam1994f#@aam1994f#229.878#230.188
 823	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@aam1994f#@aam1994f#230.188#230.498
 824	вот	вот	PART	_	_	_	_	_	words@aam1994f#@aam1994f#230.498#230.808
-825	попаду	попадить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@aam1994f#@aam1994f#230.808#231.118
+825	попаду	попасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@aam1994f#@aam1994f#230.808#231.118
 826	внутрь	внутрь	ADV	_	Degree=Pos	_	_	_	words@aam1994f#@aam1994f#231.118#231.428
 827	/	/	PUNCT	_	_	_	_	_	words@aam1994f#@aam1994f#231.428#231.738
 828	и	и	CCONJ	_	_	_	_	_	words@aam1994f#@aam1994f#231.738#232.048
@@ -988,9 +988,9 @@
 985	кого-то	кто-то	PRON	_	Case=Gen	_	_	_	words@aam1994f#@aam1994f#278.789#279.066
 986	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@aam1994f#@aam1994f#279.066#279.343
 987	наверное	наверное	ADV	_	Degree=Pos	_	_	_	words@aam1994f#@aam1994f#279.343#279.62
-988	нормально	нормально	ADV	_	Degree=Pos	_	_	_	words@aam1994f#@aam1994f#279.62#279.897
+988	нормально	нормальный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@aam1994f#@aam1994f#279.62#279.897
 989	и	и	CCONJ	_	_	_	_	_	words@aam1994f#@aam1994f#279.897#280.174
-990	спокойно	спокойно	ADV	_	Degree=Pos	_	_	_	words@aam1994f#@aam1994f#280.174#280.451
+990	спокойно	спокойный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@aam1994f#@aam1994f#280.174#280.451
 991	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	words@aam1994f#@aam1994f#280.451#280.728
 992	проходят	проходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@aam1994f#@aam1994f#280.728#281.039
 993	но	но	CCONJ	_	_	_	_	_	words@aam1994f#@aam1994f#281.666#281.945
@@ -1078,7 +1078,7 @@
 1075	ну	ну	PART	_	_	_	_	_	words@aam1994f#@aam1994f#307.716#308.045
 1076	что-то	что-то	PRON	_	Case=Acc	_	_	_	words@aam1994f#@aam1994f#308.045#308.374
 1077	такое	такой	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@aam1994f#@aam1994f#308.374#308.703
-1078	сделать	делать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@aam1994f#@aam1994f#308.703#309.032
+1078	сделать	сделать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@aam1994f#@aam1994f#308.703#309.032
 1079	/	/	PUNCT	_	_	_	_	_	words@aam1994f#@aam1994f#309.032#309.361
 1080	/	/	PUNCT	_	_	_	_	_	words@aam1994f#@aam1994f#309.361#309.705
 
